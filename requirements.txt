@@ -1,0 +1,7 @@
+numpy
+pathlib
+keras
+tensorflow
+sklearn
+opencv-python
+matplotlib
